@@ -47,7 +47,8 @@ namespace fawzi
 ```
 ## Output:
 
-![output](https://user-images.githubusercontent.com/75235022/165786503-51369d2b-911d-4e2a-a224-25d5e1154c9b.png)
+![outttt](https://user-images.githubusercontent.com/75235022/175532590-5434132a-10f3-4557-8a9e-e9f4871d21dc.png)
+
 
 
 ## Result:
