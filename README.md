@@ -1,4 +1,7 @@
-# Largest-of-three-numbers
+### EX NO : 01
+### DATE  : 30.03.2022
+# <p align="center"> Largest-of-three-numbers </p>
+
 ## Aim:
 To write a C# program to find the largest of three numbers
 
@@ -16,8 +19,10 @@ Use else condition to display that third variable is largest among all the varia
 ### Step6:
 stop
 
+<br/><br/><br/><br/><br/><br/><br/><br/>
+
 ## Program:
-```
+```c#
 using System;
 namespace fawzi
 {
@@ -40,8 +45,8 @@ namespace fawzi
     }
 }
 ```
-
 ## Output:
+
 ![output](https://user-images.githubusercontent.com/75235022/165786503-51369d2b-911d-4e2a-a224-25d5e1154c9b.png)
 
 
